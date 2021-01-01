@@ -1,1 +1,12 @@
-
+#navbar {
+    width: 30%;
+    height: 100%;
+    border: 2px solid black;
+ 
+}
+#name {
+    text-align: center;
+}
+h1 {
+   font: pirata one;
+}
