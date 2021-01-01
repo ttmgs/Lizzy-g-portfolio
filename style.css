@@ -1,12 +1,45 @@
 #navbar {
-    width: 30%;
+    width: 25%;
     height: 100%;
     border: 2px solid black;
- 
-}
-#name {
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
     text-align: center;
+    float: left;
+
 }
+
+#navbar a {
+    padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+ 
+
 h1 {
    font: pirata one;
 }
+
+#photos {
+ 
+    height: 100%;
+    border: 2px solid black;
+    float: right;
+    width: 74%;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
