@@ -1,5 +1,5 @@
 #navbar {
-    width: 25%;
+    width: 20%;
     height: 100%;
     border: 2px solid black;
     overflow-x: hidden;
@@ -33,13 +33,15 @@ h1 {
     height: 100%;
     border: 2px solid black;
     float: right;
-    width: 74%;
+    width: 80%;
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-    float: left;
-    width: 25%;
-    padding: 5px;
-  }
+
+ .p-3 {
+     width: 200px;
+ }
+
+
+  
+
   
