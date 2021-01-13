@@ -1,6 +1,6 @@
 #navbar {
     width: 20%;
-    height: 100%;
+    
     border: 2px solid black;
     overflow-x: hidden;
     transition: 0.5s;
@@ -10,19 +10,16 @@
     top: 0;
     left: 0;
     text-align: center;
-    float: left;
-
+    
+    
+  
+}
+img {
+  width: 200px;
+  height: 200px;
 }
 
-#navbar a {
-    padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-  transition: 0.3s;
-}
- 
+
 
 h1 {
    font: pirata one;
@@ -31,17 +28,8 @@ h1 {
 #photos {
  
     height: 100%;
-    border: 2px solid black;
     float: right;
     width: 80%;
+    top: 0;
 }
 
-
- .p-3 {
-     width: 200px;
- }
-
-
-  
-
-  
