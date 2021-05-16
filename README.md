@@ -1,4 +1,3 @@
-# Lizzy-g-portfolio
 
 ## Description
 HTML & CSS model website i designed for a client
