@@ -1,6 +1,6 @@
 
 ## Description
-HTML & CSS model website i designed for a client
+First website ive made for a client. Simple HTML and CSS model website
 
  
  ## Screenshot
